@@ -1,0 +1,4 @@
+C:\Users\Tran Sac PC\Documents\GitHub\project_vietjob\du_an1\du_an1\bin\Debug\du_an1.exe
+C:\Users\Tran Sac PC\Documents\GitHub\project_vietjob\du_an1\du_an1\bin\Debug\du_an1.pdb
+C:\Users\Tran Sac PC\Documents\GitHub\project_vietjob\du_an1\du_an1\obj\x86\Debug\du_an1.exe
+C:\Users\Tran Sac PC\Documents\GitHub\project_vietjob\du_an1\du_an1\obj\x86\Debug\du_an1.pdb
